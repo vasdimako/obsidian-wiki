@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "512e087312222e46",
+    "type": "split",
+    "children": [
+      {
+        "id": "93790decb40dd708",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "home.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30c83e0f566c5885",
+    "type": "split",
+    "children": [
+      {
+        "id": "68fda3f7b23e7abf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bff18caefea6b0ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d15b494c9d02f46",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "crews",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfcf9716ab687c27",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62870f70cac8349f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5ccde522fa9d96",
+        "type": "tabs",
+        "dimension": 73.98989898989899,
+        "children": [
+          {
+            "id": "72a826fc90ef8421",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d12846e3d029ec5a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "beefc48f7530bf49",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "cdd17864ef26174f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "home.md"
+              }
+            }
+          },
+          {
+            "id": "7f37d9a36a613f2f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "315e4920a5c4b9f3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a4a1d1a361a32998",
+        "type": "tabs",
+        "dimension": 26.01010101010101,
+        "children": [
+          {
+            "id": "e4f1f662c8732fc2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "93790decb40dd708",
+  "lastOpenFiles": [
+    "Storylines/Other Planes/Astral Plane/Armada Storylines.md",
+    "Heroes/Heroes.md",
+    "NPCs/Planes/Astral Plane/Siren's Call/Ragna.md",
+    "NPCs/Planes/Astral Plane/Siren's Call/Brynne.md",
+    "NPCs/Planes/Astral Plane/Siren's Call/Vanya.md",
+    "Locations/Planes/Astral Plane/Wildspace/Armada/Armada.md",
+    "NPCs/Planes/Astral Plane/Grez.md",
+    "Heroes/Dawn.md",
+    "Storylines/Anvar/History of the Human Colonies.md",
+    "Storylines/Anvar/The War of Unification.md"
+  ]
+}

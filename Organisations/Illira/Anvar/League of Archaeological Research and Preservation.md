@@ -1,0 +1,6 @@
+---
+aliases: [LARP]
+tags: []
+---
+
+[[Anvar]]

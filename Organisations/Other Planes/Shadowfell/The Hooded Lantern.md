@@ -1,0 +1,7 @@
+[[Gloomwrought]]
+
+Even in the darkest places dwell those who seek the light. The Hooded Lantern is a group of such people, worshipers of Helm who have shrines across the city. Following the edict of their deity, the members of the sect bring Helm's light into the Shadow fell, the darkest of places. Most of the cultists post a lighted iron lantern above the doors to their homes to proclaim their religion. This is despite the fact that the Sun hasn't been seen in the realm of shadows for decades. The Black Guard of the Reign of Night takes issue to their presence in the city, as they wish to drive out all other religions from it.
+
+In the cloistered halls of their larger shrines, the cultists hold services that they dare not share even with Helm's disciples from elsewhere. The cult secretly believes that Helm and Shar are two halves of a pair, two sides of one shining and dark disk. Through hidden rituals, these cultists seek to bind the two gods in an eternal union of life and death. It is from these secret beliefs that the faction takes its name---the hooded lantern is equal parts light and darkness.
+
+The leader of the Hooded Lantern is one of the Vigilant Eyes, a paladin of Helm called Abzan. There are other clerics and priests and other members, but the faction is not very numerous.

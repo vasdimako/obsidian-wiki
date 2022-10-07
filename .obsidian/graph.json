@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path:deities",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.13473762010347,
+  "lineSizeMultiplier": 1.00229120473023,
+  "collapse-forces": true,
+  "centerStrength": 0.48034188034188,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 269,
+  "scale": 0.9681619554185629,
+  "close": false
+}
