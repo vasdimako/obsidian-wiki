@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Astral Sea",
-      "path": "Locations/Planes/Astral Sea.md"
+      "basename": "Upper East Side",
+      "path": "Locations/Illira/Haran Districts/Upper East Side.md"
+    },
+    {
+      "basename": "Westfall",
+      "path": "Locations/Illira/Haran Districts/Westfall.md"
+    },
+    {
+      "basename": "The Kraken's Head",
+      "path": "Locations/Illira/Haran Districts/The Kraken's Head.md"
+    },
+    {
+      "basename": "Dock District",
+      "path": "Locations/Illira/Haran Districts/Dock District.md"
     },
     {
       "basename": "Shadowfell",
       "path": "Locations/Planes/Shadowfell.md"
-    },
-    {
-      "basename": "Haran",
-      "path": "Locations/Illira/Haran.md"
-    },
-    {
-      "basename": "Shimmering Plateau",
-      "path": "Locations/Illira/Shimmering Plateau.md"
     }
   ],
   "omittedPaths": [],
