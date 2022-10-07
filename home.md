@@ -1,1 +1,1 @@
-Test
+Mostly spoiler-free campaign wiki. Use sidebar to navigate.

@@ -1,7 +1,5 @@
 # Elven Trance
 
-[[Fennlor]]
-
 From birth, elves don't sleep but instead enter a trance when they need to rest. In this state, elves remain aware of their surroundings while immersing themselves in memories. What an elf remembers during this reverie depends largely on how long the elf has lived, and the events of the lives that the elf's soul has experienced before.
 
 During a young elf's first few years, the memories evoked during trance are drawn not from current life experiences, but from the fantastic past adventures of the elf's immortal soul. Parents of young elves and priests of Erevan Ilesere encourage the youths to explore these memories and talk about them with one another, but they aren't to be discussed with adults until a memory of waking life first intrudes upon a youngster's trance. This experience, called the First Reflection, marks the end of childhood and the start of adolescence.

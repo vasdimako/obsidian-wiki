@@ -1,4 +1,3 @@
-[[Shimmering Plateau]]
 # History
 
 The Shadowmoon clan was the first to hear Azrael's whispers as they looked to the stars. Since then, the four clans have been unified, so it is not uncommon to see individuals from multiple clans working together, but they still retain their identity and live in separate settlements. The newly-established Asarius, City of Beasts, is the exception to this.
