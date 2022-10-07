@@ -5,7 +5,7 @@
 > ###### Information
 > | | |
 > |---|---|
-> | Location | [[Astral Sea]]|
+> | Location | |
 > | Type | City |
 ## Description
 Armada is a floating city made of a hundred ships lashed together. They all have masts and sails that are still functional and can be used to shift the city if absolutely necessary. When Armada is stationary, it uses magitech crystals to alter the weather around it. It can create fog, prevent large waves or even cause a storm to halt any ship's approach. With a combination of magitech and divination, the Grand Gears can locate ships that cross the waters near Armada and send storms or their own fleet against them. Other ships can dock to Armada, with permission, in specially designed areas. Armada is safe enough for members of the five crews, but outsiders are free game unless they're under the protection of one of the captains. Armada's crest, a skull with a pair of crossed scimitars and five stars around it, one for each of the city's districts.

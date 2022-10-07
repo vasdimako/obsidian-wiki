@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Armada",
+      "path": "Locations/Illira/Armada.md"
+    },
+    {
       "basename": "Illira Overview",
       "path": "Locations/Illira Overview.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "The Kraken's Head",
       "path": "Locations/Illira/Haran Districts/The Kraken's Head.md"
-    },
-    {
-      "basename": "Dock District",
-      "path": "Locations/Illira/Haran Districts/Dock District.md"
     }
   ],
   "omittedPaths": [],
