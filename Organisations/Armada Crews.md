@@ -7,7 +7,7 @@ The Lovers are a pair of captains that rule Armada. They are a pair of half-elve
 
 The Grand Gears are a pirate crew led by the Bookwyrm, a red half-dragon. Their part of the city contains all of the knowledge of Armada, and their inventors and tinkerers work with most of the other crews. They were the ones that created the wave-repellent system. Their flagship is called Pursuit. Their ships fly a flag of three gears spinning each other.
 
-The Grand Gears have been working on magical engineering for a long time, and the Bookwyrm is somewhat annoyed at the fact that it is booming in Anvar thanks to aetherium. Some Grand Gears consider using aetherium too easy and that it is above them, while others don't mind it. In any case, they definitely aren't above smuggling aetherium from the Renvar Isles to [[Armada]] and then selling it or transporting it to markets outside Anvar.
+The Grand Gears have been working on magical engineering for a long time, and the Bookwyrm is somewhat annoyed at the fact that it is booming in Anvar thanks to aetherium. Some Grand Gears consider using aetherium too easy and that it is above them, while others don't mind it. In any case, they definitely aren't above smuggling aetherium from the Renvar Isles to [[Locations/Illira/Armada]] and then selling it or transporting it to markets outside Anvar.
 
 
 # The Nocturne

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Illira Overview",
+      "path": "Locations/Illira Overview.md"
+    },
+    {
       "basename": "Upper East Side",
       "path": "Locations/Illira/Haran Districts/Upper East Side.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Dock District",
       "path": "Locations/Illira/Haran Districts/Dock District.md"
-    },
-    {
-      "basename": "Shadowfell",
-      "path": "Locations/Planes/Shadowfell.md"
     }
   ],
   "omittedPaths": [],

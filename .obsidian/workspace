@@ -12,6 +12,12 @@
             {
               "leaf": "93790decb40dd708",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira Overview.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Haran Districts/Upper East Side.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
@@ -122,20 +128,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Minor Deities/Dol Arrah.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":101},\"to\":{\"line\":19,\"ch\":101}},\"scroll\":17.2520831823349}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Major/Azrael.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":315},\"to\":{\"line\":27,\"ch\":315}},\"scroll\":19.76354130109151}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Illira/Haran Districts/Upper East Side.md",
-            "mode": "source",
+            "file": "Locations/Illira Overview.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Illira/Haran Districts/Upper East Side.md",
+                "file": "Locations/Illira Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Illira/Haran Districts/Upper East Side.md",
+                "file": "Locations/Illira Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Illira/Haran Districts/Upper East Side.md"
+                "file": "Locations/Illira Overview.md"
               }
             }
           },
@@ -327,8 +327,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bff18caefea6b0ee",
+  "active": "93790decb40dd708",
   "lastOpenFiles": [
+    "Locations/Illira/Haran Districts/Upper East Side.md",
     "Locations/Illira/Haran Districts/Westfall.md",
     "Locations/Illira/Haran Districts/The Kraken's Head.md",
     "Locations/Illira/Haran Districts/Dock District.md",
@@ -337,7 +338,6 @@
     "Deities/The Solmane.md",
     "Deities/The Seldarine.md",
     "Deities/Major Deities.md",
-    "Deities/Seldarine/Corellon Larethian.md",
-    "Deities/Minor Deities/Dol Arrah.md"
+    "Deities/Seldarine/Corellon Larethian.md"
   ]
 }
