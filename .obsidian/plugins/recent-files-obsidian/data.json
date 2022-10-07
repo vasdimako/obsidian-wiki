@@ -5,20 +5,20 @@
       "path": "home.md"
     },
     {
-      "basename": "Armada Storylines",
-      "path": "Storylines/Other Planes/Astral Plane/Armada Storylines.md"
+      "basename": "Calendar",
+      "path": "Worldbuilding/Calendar.md"
     },
     {
-      "basename": "Heroes",
-      "path": "Heroes/Heroes.md"
+      "basename": "Vistani",
+      "path": "Worldbuilding/Vistani.md"
     },
     {
-      "basename": "Ragna",
-      "path": "NPCs/Planes/Astral Plane/Siren's Call/Ragna.md"
+      "basename": "Orilonian Culture",
+      "path": "Worldbuilding/Orilonian Culture.md"
     },
     {
-      "basename": "Brynne",
-      "path": "NPCs/Planes/Astral Plane/Siren's Call/Brynne.md"
+      "basename": "The Drakkar",
+      "path": "Storylines/The Drakkar.md"
     }
   ],
   "omittedPaths": [],

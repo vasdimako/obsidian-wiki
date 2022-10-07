@@ -13,4 +13,4 @@ The months take their names from the moon that is most prominent (closest) to th
 | 9     | Rhaan                 |
 | 10    | Sypheros              |
 | 11    | Aryth                 |
-| 12    | Vult                  |
+| 12    | Selune                |

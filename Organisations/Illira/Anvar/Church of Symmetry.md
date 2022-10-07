@@ -1,3 +1,0 @@
-[[Anvar]]
-
-The Church is currently led by a pair of human twins hailing from the duchy of Whitehaven. A pair of blessed twins has been born on time to take over from the previous archbishops for the past three generations, but one has not been found yet in this one. They follow the Anvari Pantheon. Though the worship of different gods is not actively discouraged, most of the Anvari worship part of or all of the Primordial and Profane pantheons.

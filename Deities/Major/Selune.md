@@ -19,7 +19,7 @@ Nevertheless, at all times, Selûne was caring and accepting of most beings, and
 
 # History
 
-The history of Selune's conflict with Shar is detailed in [[the Sundering]].
+The history of Selune's conflict with Shar is detailed in [[The Sundering]].
 
 # Worship
 

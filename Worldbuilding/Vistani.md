@@ -13,29 +13,12 @@ The Vistani mostly forage for herbs and other plants as they travel, as they are
 
 # The Tale of Vistan
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Vistan was not our king, nor was he our enemy, but his ambition was great and his army mighty. Westward he marched before thousands of legions, to conquer the world and make it his own.</p>
-<p></p>
-<p>Vistan was not our king, nor was he our enemy, but his resources were great and his army well provisioned. Westward we followed him, to heal his wounded.</p>
-<p></p>
-<p>Vistan was not our king, nor was he our enemy. His cause was not ours, nor were his spoils of war, yet his defeat was thrust upon us. In the land called Transyl, the conqueror was crushed by warriors of a nameless god, and all his legions were made slaves.</p>
-<p></p>
-<p>We were not, ourselves, brought into bondage, for Vistan was not our king, but neither were we allowed to return to the home forge, for the Transylites decreed that none should return with word of what had befallen Vistan and his armies. “Vistani” they named us, and made us beggars, and promised they would murder us if our vardos ever faced east.</p>
-<p></p>
-<p>Then Kaldresh rose among us and spoke of a vision which taught him that the world was round, and he promised we should find the home forge if we continued moving always west.</p>
-<p></p>
-<p>Vistan was not our king, nor was he our enemy, yet forever we bear his name and his fate, for the world is truly flat, and we shall never see our homeland again.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
+> Vistan was not our king, nor was he our enemy, but his ambition was great and his army mighty. Westward he marched before thousands of legions, to conquer the world and make it his own.
+> Vistan was not our king, nor was he our enemy, but his resources were great and his army well provisioned. Westward we followed him, to heal his wounded.
+> Vistan was not our king, nor was he our enemy. His cause was not ours, nor were his spoils of war, yet his defeat was thrust upon us. In the land called Transyl, the conqueror was crushed by warriors of a nameless god, and all his legions were made slaves.
+> We were not, ourselves, brought into bondage, for Vistan was not our king, but neither were we allowed to return to the home forge, for the Transylites decreed that none should return with word of what had befallen Vistan and his armies. “Vistani” they named us, and made us beggars, and promised they would murder us if our vardos ever faced east.
+> Then Kaldresh rose among us and spoke of a vision which taught him that the world was round, and he promised we should find the home forge if we continued moving always west.
+> Vistan was not our king, nor was he our enemy, yet forever we bear his name and his fate, for the world is truly flat, and we shall never see our homeland again.
 
 # Rituals
 

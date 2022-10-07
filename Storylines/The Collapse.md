@@ -25,5 +25,3 @@ First, the act of violently passing through the Divine Gate shattered part of it
 Second, his first ritual of breaking the bonds of the Driftwood Cathedral weakened the bonds of all other angels and minor gods imprisoned within the Inner Planes.
 
 Third, the act of contracting all of the Planes in one spot did irreversible damage to the boundaries between those Planes. As a result, travel between the Planes has become easier and, in places where the Planes once converged, they may now bleed together.
-
-Finally, Kelemvor's fate is unknown. His clergy's prayers remain unanswered, or in some cases are answered by Azrael instead.
