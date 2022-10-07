@@ -12,133 +12,128 @@
             {
               "leaf": "93790decb40dd708",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Armada.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Blackmarsh.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Fennlor.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Haran.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Shimmering Plateau.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Planes/Astral Sea.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":20.625}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Planes/Shadowfell.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":18.454347693401836}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Planes/Astral Sea.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Storylines/History of the Human Colonies.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":30.38235294117647}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Storylines/The Collapse.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":14.561764885397519}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Storylines/History of the Human Colonies.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilding/Elven Culture.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilding/Elven Wizardry.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilding/Orilonian Culture.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilding/Vistani.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":59},\"to\":{\"line\":0,\"ch\":59}}}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":4},\"to\":{\"line\":0,\"ch\":4}},\"scroll\":0}"
-            },
-            {
-              "leaf": "93790decb40dd708",
-              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organisations/The Herons.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.388333384195963}"
             },
             {
               "leaf": "93790decb40dd708",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organisations/Clans of the Plateau.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Planes/Astral Sea.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":23.10000006357829}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Planes/Shadowfell.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Planes/Astral Sea.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Haran.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Shimmering Plateau.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Armada.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Blackmarsh.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Haran Districts/Westfall.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Haran Districts/Upper East Side.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Haran Districts/The Kraken's Head.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Illira/Haran Districts/Dock District.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "93790decb40dd708",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organisations/Armada Crews.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.92013888888889}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/The Solmane.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.037854172879804}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Major/Auril.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.637499491373697}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Major/Azrael.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.95747976228008}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Major/Eldath.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.695589361566725}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Major/Helm.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.573228100153404}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Major/Kelemvor.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.681889571542815}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Major/Helm.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "93790decb40dd708",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deities/Major/Kelemvor.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Illira/Armada.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -220,7 +215,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Illira/Armada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +235,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Illira/Armada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,9 +264,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Illira/Armada.md"
-              }
+              "state": {}
             }
           },
           {
@@ -329,15 +320,15 @@
   },
   "active": "bff18caefea6b0ee",
   "lastOpenFiles": [
-    "Locations/Illira/Blackmarsh.md",
-    "Locations/Illira/Fennlor.md",
-    "Locations/Illira/Haran.md",
-    "Locations/Illira/Shimmering Plateau.md",
     "Locations/Planes/Astral Sea.md",
     "Locations/Planes/Shadowfell.md",
-    "Storylines/History of the Human Colonies.md",
-    "Storylines/The Collapse.md",
-    "Worldbuilding/Elven Culture.md",
-    "Worldbuilding/Elven Wizardry.md"
+    "Locations/Illira/Haran.md",
+    "Locations/Illira/Shimmering Plateau.md",
+    "Locations/Illira/Armada.md",
+    "Locations/Illira/Blackmarsh.md",
+    "Locations/Illira/Haran Districts/Westfall.md",
+    "Locations/Illira/Haran Districts/Upper East Side.md",
+    "Locations/Illira/Haran Districts/The Kraken's Head.md",
+    "Locations/Illira/Haran Districts/Dock District.md"
   ]
 }

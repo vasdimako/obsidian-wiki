@@ -17,8 +17,6 @@ Kelemvor's avatar appeared much as his mortal self, a human warrior with a dark,
 
 Kelemvor was a human, one of the first to be created. He was a mercenary and later paladin who embodied virtue and bravery. Humans rallied around him in the uncertainty of the first war between the creator Sisters. Though Shar was defeated and driven from the world for a time, she left behind death and mortality for the races she and Selune had created. For this reason, Selune sought a worthy individual who already had a seed of her power within them to be elevated and aid the dying mortal races in their journey. Kelemvor was chosen for this and he was elevated to godhood. He later did the same for Azrael and Sashellas.
 
-After Azrael's betrayal and ascension, Kelemvor made the decision to abdicate from his duties at the Crystal Spire, as he did not wish to fight Azrael for the domain of Death. Instead, he decided to embark on a pilgrimage throughout the planes to determine how he can better serve the mortal races after all this time.
-
 # Worship
 
 The death clergy, as they were known, had many duties; most involved tending to the last wishes of the dying and providing burial services to those who died alone. They also set out to cure diseases and defend people from monsters so that folk did not die before their time. Their final and arguably most important task was the destruction of undeath in all its various forms as it was an affront to Kelemvor. Elite priests of Kelemvor were known as Doomguides. There also exists an order of paladins dedicated to Kelemvor's service called the Knights of the Eternal Order.
