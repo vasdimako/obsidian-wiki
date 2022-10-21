@@ -144,8 +144,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6f5fb0416cd54ab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -338,17 +356,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "93790decb40dd708",
+  "active": "c6f5fb0416cd54ab",
   "lastOpenFiles": [
+    "Locations/Illira/Royal Crydee/Crydee.md",
+    "Home.md",
+    "Storylines/Session Recaps.md",
     "NPCs/Royal Crydee/Dorian Pavus.md",
     "NPCs/Royal Crydee/Evan Mayhew.md",
     "NPCs/Royal Crydee/Fringilla Vigo.md",
     "NPCs/Royal Crydee/Hubert conDoin.md",
     "NPCs/Royal Crydee/Mildred Maghorn.md",
     "NPCs/Royal Crydee/Nala Kerrhylon.md",
-    "NPCs/Royal Crydee/Preston Lornar.md",
-    "NPCs/Royal Crydee/Shianax.md",
-    "NPCs/Royal Crydee/The Seer.md",
-    "Locations/Illira/Royal Crydee/Blackmarsh.md"
+    "NPCs/Royal Crydee/Preston Lornar.md"
   ]
 }

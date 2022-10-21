@@ -5,20 +5,20 @@
       "path": "Home.md"
     },
     {
+      "basename": "Crydee",
+      "path": "Locations/Illira/Royal Crydee/Crydee.md"
+    },
+    {
+      "basename": "Session Recaps",
+      "path": "Storylines/Session Recaps.md"
+    },
+    {
       "basename": "Borric conDoin",
       "path": "NPCs/Royal Crydee/Borric conDoin.md"
     },
     {
       "basename": "Dorian Pavus",
       "path": "NPCs/Royal Crydee/Dorian Pavus.md"
-    },
-    {
-      "basename": "Evan Mayhew",
-      "path": "NPCs/Royal Crydee/Evan Mayhew.md"
-    },
-    {
-      "basename": "Fringilla Vigo",
-      "path": "NPCs/Royal Crydee/Fringilla Vigo.md"
     }
   ],
   "omittedPaths": [],
