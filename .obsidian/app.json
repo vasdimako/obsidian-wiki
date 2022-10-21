@@ -1,6 +1,6 @@
 {
   "spellcheck": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "attachmentFolderPath": "Resources",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
