@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The War of Unification",
+      "path": "Storylines/The War of Unification.md"
+    },
+    {
+      "basename": "Calendar",
+      "path": "Worldbuilding/Calendar.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "Session Recaps",
       "path": "Storylines/Session Recaps.md"
-    },
-    {
-      "basename": "Borric conDoin",
-      "path": "NPCs/Royal Crydee/Borric conDoin.md"
-    },
-    {
-      "basename": "Dorian Pavus",
-      "path": "NPCs/Royal Crydee/Dorian Pavus.md"
     }
   ],
   "omittedPaths": [],

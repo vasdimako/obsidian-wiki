@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Storylines/The War of Unification.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -200,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crews",
+                "query": "Eyre",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,7 +221,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Storylines/The War of Unification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Storylines/The War of Unification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Storylines/The War of Unification.md"
               }
             }
           },
@@ -353,20 +354,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "c6f5fb0416cd54ab",
   "lastOpenFiles": [
-    "Locations/Illira/Royal Crydee/Crydee.md",
+    "Worldbuilding/Calendar.md",
     "Home.md",
+    "Locations/Illira/Royal Crydee/Crydee.md",
     "Storylines/Session Recaps.md",
     "NPCs/Royal Crydee/Dorian Pavus.md",
     "NPCs/Royal Crydee/Evan Mayhew.md",
     "NPCs/Royal Crydee/Fringilla Vigo.md",
     "NPCs/Royal Crydee/Hubert conDoin.md",
     "NPCs/Royal Crydee/Mildred Maghorn.md",
-    "NPCs/Royal Crydee/Nala Kerrhylon.md",
-    "NPCs/Royal Crydee/Preston Lornar.md"
+    "NPCs/Royal Crydee/Nala Kerrhylon.md"
   ]
 }

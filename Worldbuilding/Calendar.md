@@ -5,7 +5,7 @@ The months take their names from the moon that is most prominent (closest) to th
 | 1     | Zalantyr (mid-winter) |
 | 2     | Olarune               |
 | 3     | Therendor             |
-| 4     | Eyre                  |
+| 4     | Thedas                  |
 | 5     | Dravago               |
 | 6     | Nymm                  |
 | 7     | Lharvion              |
