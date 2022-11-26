@@ -1,0 +1,1 @@
+As a bonus action, you can use this item to gain +1 to all attack and damage rolls with unarmed strikes for 1 minute. Once you use this item, you cannot use it again until you finish a long rest.

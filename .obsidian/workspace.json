@@ -138,32 +138,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6f5fb0416cd54ab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylines/The War of Unification.md",
+                "file": "Locations/Planes/Wildspace/Mercane Agency.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Eyre",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,8 +203,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylines/The War of Unification.md",
+                "file": "Locations/Planes/Wildspace/Mercane Agency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylines/The War of Unification.md",
+                "file": "Locations/Planes/Wildspace/Mercane Agency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylines/The War of Unification.md"
+                "file": "Locations/Planes/Wildspace/Mercane Agency.md"
               }
             }
           },
@@ -354,17 +335,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6f5fb0416cd54ab",
+  "active": "93790decb40dd708",
   "lastOpenFiles": [
-    "Worldbuilding/Calendar.md",
+    "Objects/Glass Sphere.md",
     "Home.md",
+    "Storylines/The War of Unification.md",
+    "Worldbuilding/Calendar.md",
     "Locations/Illira/Royal Crydee/Crydee.md",
     "Storylines/Session Recaps.md",
     "NPCs/Royal Crydee/Dorian Pavus.md",
     "NPCs/Royal Crydee/Evan Mayhew.md",
     "NPCs/Royal Crydee/Fringilla Vigo.md",
-    "NPCs/Royal Crydee/Hubert conDoin.md",
-    "NPCs/Royal Crydee/Mildred Maghorn.md",
-    "NPCs/Royal Crydee/Nala Kerrhylon.md"
+    "NPCs/Royal Crydee/Hubert conDoin.md"
   ]
 }
