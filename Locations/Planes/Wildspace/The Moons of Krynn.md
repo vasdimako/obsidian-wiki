@@ -1,0 +1,13 @@
+The twelve moons of Krynn are the twelve major celestial bodies in Wildspace other than Krynn itself. They are:
+- **Zalantyr**: A large moon of rocky pillars and plateaus with forests growing atop them. Life is concentrated at the top because giant dinosaur-like creatures stalk the bottom.
+- **Olarune**: This moon is dotted with sheer mountains home to tribes of aarakocra. The foothills are dangerous, stalked by monsters.
+- **Therendor**: A swirling ball of multicoloured gas with an intense, flickering light emanating from its core, making it look like a sort of celestial beacon.
+- **Thedas**: The largest of the moons is a desert inhabited by clans of ssuran and other monstrosities. Thedas does not spin around its axis as it orbits the sun, so it is always day on one side and always night on the other. The city of Valencia was built on the lit half of Thedas. It is the holy city of the Eternal Chantry and location of the Grand Cathedral of the Maker, the only place where the Chant of Light is sung in full, a process which takes two weeks to complete.
+- **Dravago**: This large moon is home to multiple dragons vying for dominion and territory.
+- **Nymm**: An ice moon with a ring of ice crystals encircling its equator. Humans have built large camps on the polar ice caps, and dinosaurs roam the frozen landscape, feeding on scant vegetation and each other.
+- **Lharvion**: A giant ball of ice crisscrossed by canyons. Within are heated thermal vents inhabited by a variety of creatures.
+- **Barrakas**: A lush, green moon that was once home to ancient Tevinter. Now, only ruins and small tribes remain.
+- **Rhaan**: This moon is covered by crystallized obsidian structures.
+- **Sypheros**: A cold, swampy moon strewn with petrified skeletons of kindori. Creatures build shelters among the bones.
+- **Aryth**: This moon is composed entirely of toxic green gas.
+- **Selune**: A small, barren moon covered by frost. It is said to belong to an ancient lunar dragon.
