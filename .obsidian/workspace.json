@@ -138,7 +138,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Planes/Wildspace/Mercane Agency.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Planes/Wildspace/Mercane Agency.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Planes/Wildspace/Mercane Agency.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Planes/Wildspace/Mercane Agency.md"
+                "file": "Home.md"
               }
             }
           },
@@ -337,6 +337,7 @@
   },
   "active": "93790decb40dd708",
   "lastOpenFiles": [
+    "Locations/Planes/Wildspace/Mercane Agency.md",
     "Objects/Glass Sphere.md",
     "Home.md",
     "Storylines/The War of Unification.md",
@@ -345,7 +346,6 @@
     "Storylines/Session Recaps.md",
     "NPCs/Royal Crydee/Dorian Pavus.md",
     "NPCs/Royal Crydee/Evan Mayhew.md",
-    "NPCs/Royal Crydee/Fringilla Vigo.md",
-    "NPCs/Royal Crydee/Hubert conDoin.md"
+    "NPCs/Royal Crydee/Fringilla Vigo.md"
   ]
 }
